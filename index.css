@@ -337,9 +337,8 @@ footer p:nth-child(2){
 	pointer-events: none;
 	transition: .5s;
 	background-color: #f9004d;
-	position: fixed;
+
 	bottom: 16px;
-	right: 32px;
 	height: 40px;
 	width: 40px;
 justify-content: center;
